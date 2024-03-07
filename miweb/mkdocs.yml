@@ -1,0 +1,7 @@
+site_name: Mi Web - Aarón
+
+nav:
+  - Tutorial Basico Markdown: index.md
+  - Tutorial Simple HTML: lmsgi.md
+  - Comida: public/comida.md
+theme: readthedocs
